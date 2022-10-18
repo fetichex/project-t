@@ -1,7 +1,11 @@
+import Layout from './components/Layout'
+
 export default function App() {
   return (
     <>
-      <h1>project T</h1>
+      <Layout>
+      
+      </Layout>
     </>
   )
 }
